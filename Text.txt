@@ -1,0 +1,4 @@
+chmod +x setup.sh 
+./setup.sh
+
+এই CMD টেক্সট কপি করে টার্মিনাল সেন্ট করুন। windows রান হয়ে যাবে।
